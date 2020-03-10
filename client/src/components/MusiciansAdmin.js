@@ -115,6 +115,9 @@ export default class MusiciansAdmin extends Component {
                       <button type="submit" className="button is-primary is-medium">
                         Add musician
                       </button>
+                      <button type="submit" className="button is-primary is-medium">
+                        Hello World button!
+                      </button>
                     </div>
                   </div>
                 </form>
